@@ -3,7 +3,7 @@
 # I'm Christopher Moore
 ## A software developer and creative. 
 
-### If you're landing here because of the recommendation by Review Avenue, thank you. I'm grateful for the plug and hope you enjoy the reviews they are starting to release on there! 
+### If you're landing here because of the recommendation by Review Avenue, thank you. I'm grateful for the plug and hope you enjoy the reviews they are starting to release on there. I'm sure you'll do the same as me and tune in every week to see it get better and better! 
 
 #### Anyway here's a litle bit more about me: 
 
