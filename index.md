@@ -1,4 +1,4 @@
-![Image of Me](https://github.com/cwiggo/nebule/blob/master/portfolio/me.JPG)
+![Image of Me](https://github.com/cwiggo/nebule/blob/master/portfolio/me.jpg)
 
 # Hi i'm Chris
 ## A software developer and creative. 
