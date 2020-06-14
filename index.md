@@ -39,7 +39,7 @@ Here are just a few projects that I've worked on in the past. More are available
 ![Image of Hayes Garden World](https://cwiggo.github.io/nebule/portfolio/hayes.JPG)
 ### [Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
 ![Image of Published Book](https://cwiggo.github.io/nebule/portfolio/lakes.JPG)
-### [Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
+### [Images From A Warming Planet (A published book to highlight the risk climate change)](https://www.imagesfromawarmingplanet.net/)
 ![Image of Published Book](https://cwiggo.github.io/nebule/portfolio/imagesfrom.JPG)
 ### [Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
 ![Image of Crux](https://cwiggo.github.io/nebule/portfolio/crux.JPG)
