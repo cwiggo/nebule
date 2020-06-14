@@ -57,7 +57,8 @@ Here are just a few projects that I've worked on in the past. More are available
 
 * [LinkedIn](https://www.linkedin.com/in/cwiggo/)
 * [Twitter](https://twitter.com/cwiggo)
-* [Facebooking](https://www.facebook.com/ChrisCogger)
+* [Facebook](https://www.facebook.com/ChrisCogger)
+* [Soundcloud](https://www.facebook.com/cdmoore)
 
 ### Contact
 
