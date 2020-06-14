@@ -5,6 +5,8 @@
 
 ### If you're landing here because of the recommendation by Review Avenue, thank you. I'm grateful for the plug and hope you enjoy the reviews they are starting to release on there. I'm sure you'll do the same as me and tune in every week to see it get better and better! 
 
+![Image of Review Avenue](https://cwiggo.github.io/nebule/portfolio/reviewavenue.jpg)
+
 #### Anyway here's a litle bit more about me: 
 
 I was born and raised in Stoke on Trent, now living in Nantwich and I'm currently looking to take on a number of clients to help make their ideas become a reality
@@ -31,17 +33,17 @@ I was born and raised in Stoke on Trent, now living in Nantwich and I'm currentl
 
 Here are just a few projects that I've worked on in the past. More are available on request. Don't be shy to ask.
 
-* [Impact Internationl (Management and Learning Development)](https://www.impactinternational.com/)
+### [Impact Internationl (Management and Learning Development)](https://www.impactinternational.com/)
 ![Image of Impact Internation](https://cwiggo.github.io/nebule/portfolio/impact.JPG)
-* [Hayes Garden World (E-commerce platform)](https://www.hayesgardenworld.co.uk/)
+### [Hayes Garden World (E-commerce platform)](https://www.hayesgardenworld.co.uk/)
 ![Image of Hayes Garden World](https://cwiggo.github.io/nebule/portfolio/hayes.JPG)
-* [Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
+### [Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
 ![Image of Published Book](https://cwiggo.github.io/nebule/portfolio/lakes.JPG)
-* [Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
+### [Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
 ![Image of Published Book](https://cwiggo.github.io/nebule/portfolio/imagesfrom.JPG)
-* [Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
+### [Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
 ![Image of Crux](https://cwiggo.github.io/nebule/portfolio/crux.JPG)
-* [Redbuble (Shop with bespoke designs)](https://www.redbubble.com/people/cwiggo/shop)
+### [Redbuble (Shop with bespoke designs)](https://www.redbubble.com/people/cwiggo/shop)
 
 ### Other Interests
 
