@@ -8,17 +8,18 @@ I was born and raised in Stoke on Trent, now living in Nantwich and I'm currentl
 
 ## Experience:
 
-Web / Graphic Design / UI/UX
-Database management and configuration
-E-commerce websites
-Content management
-Bespoke solutions
-Management Development & Digital Solutions
-Fleet car sales
-Policing
-Augmented Reality
-CI/CD
-Content Migration
+* Web / Graphic Design / UI/UX
+* E-commerce websites
+* Content management
+* Bespoke solutions
+* Management Development & Digital Solutions
+* Fleet car sales
+* Policing
+* Augmented Reality
+* CI/CD
+* Content Migration
+* Database management and configuration
+* API and Architecture consulation
 
 Online Portfolio:
 
