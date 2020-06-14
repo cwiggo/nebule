@@ -24,12 +24,12 @@ Online Portfolio:
 
 Here are just a few projects that I've worked on in the past. More are available on request. Don't be shy to ask.
 
-[Impact Internationl (Management and Learning Development)](https://www.impactinternational.com/)
-[Hayes Garden World (E-commerce platform)](https://www.hayesgardenworld.co.uk/)
-[Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
-[Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
-[Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
-[Redbuble (Shop with bespoke designs)](https://www.redbubble.com/people/cwiggo/shop)
+* [Impact Internationl (Management and Learning Development)](https://www.impactinternational.com/)
+* [Hayes Garden World (E-commerce platform)](https://www.hayesgardenworld.co.uk/)
+* [Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
+* [Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
+* [Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
+* [Redbuble (Shop with bespoke designs)](https://www.redbubble.com/people/cwiggo/shop)
 
 ### Social Media
 
