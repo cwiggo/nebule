@@ -1,4 +1,4 @@
-![Image of Me](https://github.com/cwiggo/nebule/blob/master/portfolio/me.jpg)
+![Image of Me](https://raw.githubusercontent.com/cwiggo/nebule/master/portfolio/me.jpg)
 
 # Hi i'm Chris
 ## A software developer and creative. 
@@ -32,15 +32,15 @@ I was born and raised in Stoke on Trent, now living in Nantwich and I'm currentl
 Here are just a few projects that I've worked on in the past. More are available on request. Don't be shy to ask.
 
 * [Impact Internationl (Management and Learning Development)](https://www.impactinternational.com/)
-![Image of Impact Internation](https://github.com/cwiggo/nebule/blob/master/portfolio/impact.JPG)
+![Image of Impact Internation](https://raw.githubusercontent.com/cwiggo/nebule/master/portfolio/impact.JPG)
 * [Hayes Garden World (E-commerce platform)](https://www.hayesgardenworld.co.uk/)
-![Image of Hayes Garden World](https://github.com/cwiggo/nebule/blob/master/portfolio/hayes.JPG)
+![Image of Hayes Garden World](https://raw.githubusercontent.com/cwiggo/nebule/master/portfolio/hayes.JPG)
 * [Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
-![Image of Published Book](https://github.com/cwiggo/nebule/blob/master/portfolio/lakes.JPG)
+![Image of Published Book](https://raw.githubusercontent.com/cwiggo/nebule/master/portfolio/lakes.JPG)
 * [Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
-![Image of Published Book](https://github.com/cwiggo/nebule/blob/master/portfolio/imagesfrom.JPG)
+![Image of Published Book](https://raw.githubusercontent.com/cwiggo/nebule/master/portfolio/imagesfrom.JPG)
 * [Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
-![Image of Crux](https://github.com/cwiggo/nebule/blob/master/portfolio/crux.JPG)
+![Image of Crux](https://raw.githubusercontent.com/cwiggo/nebule/master/portfolio/crux.JPG)
 * [Redbuble (Shop with bespoke designs)](https://www.redbubble.com/people/cwiggo/shop)
 
 ### Other Interests
