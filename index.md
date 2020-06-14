@@ -3,6 +3,10 @@
 # I'm Christopher Moore
 ## A software developer and creative. 
 
+### If you're landing here because of the recommendation by Review Avenue, thank you. I'm grateful for the plug and hope you enjoy the reviews they are starting to release on there! 
+
+#### Anyway here's a litle bit more about me: 
+
 I was born and raised in Stoke on Trent, now living in Nantwich and I'm currently looking to take on a number of clients to help make their ideas become a reality
 
 ## Experience:
@@ -34,6 +38,7 @@ Here are just a few projects that I've worked on in the past. More are available
 
 ### Other Interests
 
+* Podcasts - I'm a massive fan of comedy and movies. Joe Rogans podcast is incredbile. I'm quite fond of Review Avenues weekly Film and TV show podcast too. You can see their show on [SPOTIFY HERE](https://open.spotify.com/show/4aeIPLI2P3aN5GHV6QMJfx?si=bv3NAny9TpGsOgpetbMGLw)
 * Hiking - As I used to live in the lake district I gained a real taste for adventure, hiking up a fell or around a lake every weekend in the lake district is a perfect weekend out for me.
 * Music Production - Mixing and mastering. So if you have a song or album to record and release then I'm your guy.
 * Drum Lessons - I do offer drum lessons, from begineers to intermediate levels. I have 15 years experience and I am self taught.
