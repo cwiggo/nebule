@@ -9,7 +9,7 @@ I was born and raised in Stoke on Trent, now living in Nantwich and I'm currentl
 
 * Web / Graphic Design / UI/UX
 * E-commerce websites
-* Content management
+* Content management (Wordpress, Drupal)
 * Bespoke solutions
 * Management Development & Digital Solutions
 * Fleet car sales
@@ -19,6 +19,7 @@ I was born and raised in Stoke on Trent, now living in Nantwich and I'm currentl
 * Content Migration
 * Database management and configuration
 * API and Architecture consulation
+* Hosting
 
 ### Portfolio:
 
@@ -36,6 +37,7 @@ Here are just a few projects that I've worked on in the past. More are available
 * Hiking - As I used to live in the lake district I gained a real taste for adventure, hiking up a fell or around a lake every weekend in the lake district is a perfect weekend out for me.
 * Music Production - Mixing and mastering. So if you have a song or album to record and release then I'm your guy.
 * Drum Lessons - I do offer drum lessons, from begineers to intermediate levels. I have 15 years experience and I am self taught.
+* Gaming - Whether it's on my PC, PS4, Xbox or Raspberry Pi, I love to game. Halo 3 or Fifa any time of the day. :)
 
 ### Social Media
 
