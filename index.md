@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Nebule Creative
 
-You can use the [editor on GitHub](https://github.com/cwiggo/nebule/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Christopher Moore, A software developer and natural creative currently working as a full stack developer.
 
-### Markdown
+I was born and raised in Stoke on Trent, now living in Nantwich and I'm currently looking to take on a number of clients to help make their ideas become a reality
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience:
 
-```markdown
-Syntax highlighted code block
+Web / Graphic Design / UI/UX
+Database management and configuration
+E-commerce websites
+Content management
+Bespoke solutions
+Management Development & Digital Solutions
+Fleet car sales
+Policing
+Augmented Reality
+CI/CD
+Content Migration
 
-# Header 1
-## Header 2
-### Header 3
+Online Portfolio:
 
-- Bulleted
-- List
+Here are just a few projects that I've worked on in the past. More are available on request. Don't be shy to ask.
 
-1. Numbered
-2. List
+[Impact Internationl (Management and Learning Development)](https://www.impactinternational.com/)
+[Hayes Garden World (E-commerce platform)](https://www.hayesgardenworld.co.uk/)
+[Lake District Country Hotels (Sister Hotels in the lake district)](https://www.lakedistrictcountryhotels.co.uk/)
+[Images From A Warming Planet (A published book to highlight the risk climate change](https://www.imagesfromawarmingplanet.net/)
+[Crux (Mountaineering Equipment)](https://www.crux.uk.com/)
+[Redbuble (Shop with bespoke designs)](https://www.redbubble.com/people/cwiggo/shop)
 
-**Bold** and _Italic_ and `Code` text
+### Social Media
 
-[Link](url) and ![Image](src)
-```
+[LinkedIn](https://www.linkedin.com/in/cwiggo/)
+[Twitter](https://twitter.com/cwiggo)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cwiggo/nebule/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For enquiries and consulation please email [chrisdanielmoore@gmail.com](mailto:chrisdanielmoore@gmail.com) or call [07717123260](tel:07717123260).
