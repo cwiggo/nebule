@@ -10,7 +10,9 @@ I was born and raised in Stoke on Trent, now living in Nantwich and I'm currentl
 ## Experience:
 
 * Web / Graphic Design / UI/UX
-* E-commerce websites
+* E-commerce
+* Portfolios
+* Animation
 * Content management (Wordpress, Drupal)
 * Bespoke solutions
 * Management Development & Digital Solutions
