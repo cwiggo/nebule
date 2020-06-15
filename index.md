@@ -1,6 +1,8 @@
 <img src="https://cwiggo.github.io/nebule/portfolio/me.jpg" style="border-radius:50%; display: block; text-align:center; margin: 0 auto;" alt="Picture of me" />
 
+<p style="text-align: center;">
 # Hi, I'm Chris
+</p>
 ## A software developer and creative. 
 
 ### If you're landing here because of the recommendation by Review Avenue, thank you. I'm grateful for the plug and hope you enjoy the reviews they are starting to release on there. I'm sure you'll do the same as me and tune in every week to see it get better and better! 
