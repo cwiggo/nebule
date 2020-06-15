@@ -1,4 +1,4 @@
-<img src="https://cwiggo.github.io/nebule/portfolio/me.jpg" style="border-radius:50%; display: block; margin: 0 auto;" alt="Picture of me" />
+<img src="https://cwiggo.github.io/nebule/portfolio/me.jpg" style="border-radius:50%; display: block; text-align:center; margin: 0 auto;" alt="Picture of me" />
 
 # Hi, I'm Chris
 ## A software developer and creative. 
