@@ -2,13 +2,9 @@
 
 # Hi, I'm Chris
 
-## A software developer and creative. 
+## A web/software developer and creative. 
 
-### If you're landing here because of the recommendation by Review Avenue, thank you. I'm grateful for the plug and hope you enjoy the reviews they are starting to release on there. I'm sure you'll do the same as me and tune in every week to see it get better and better! 
-
-![Image of Review Avenue](https://cwiggo.github.io/nebule/portfolio/reviewavenue.jpg)
-
-#### Anyway here's a litle bit more about me: 
+#### Here's a litle bit more about me: 
 
 I was born and raised in Stoke on Trent, now living in Nantwich and I'm currently looking to take on a number of clients to help make their ideas become a reality
 
